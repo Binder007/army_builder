@@ -1,0 +1,19 @@
+{
+  "name": "psylocke",
+  "description": "Psylocke, the telepathic ninja from another world. A dangerous and beautiful purple haired mutant.",
+  "stats": {
+    "str": 15,
+    "dex": 22,
+    "con": 16,
+    "int": 18,
+    "wis": 20,
+    "cha": 20
+  },
+  "cost": 450,
+  "type": "hero",
+  "tags": [
+    "can_cast",
+    "spell_psi_blade"
+  ]
+}
+

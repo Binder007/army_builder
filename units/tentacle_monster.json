@@ -1,0 +1,15 @@
+{
+  "name": "tentacle_monster",
+  "description": "One of Shae'Lia's favorite pets, tentacle monsters are used for both combat, entertainment,and interrogation by the Dark Lady.",
+  "stats": {
+    "str": 18,
+    "dex": 16,
+    "con": 17,
+    "int": 7,
+    "wis": 5,
+    "cha": 3
+  },
+  "cost": 200,
+  "type": "monster",
+  "tags": []
+}

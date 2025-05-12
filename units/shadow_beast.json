@@ -1,0 +1,20 @@
+{
+  "name": "shadow_beast",
+  "description": "A creature of pure shadow, swift and unsettling. It can fade in and out of visibility.",
+  "stats": {
+    "str": 17,
+    "dex": 13,
+    "con": 15,
+    "int": 6,
+    "wis": 10,
+    "cha": 8
+  },
+  "cost": 200,
+  "type": "monster",
+  "tags": [
+    "beast",
+    "shadow",
+    "fast",
+    "invisible"
+  ]
+}

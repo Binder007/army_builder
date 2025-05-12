@@ -1,0 +1,21 @@
+{
+  "name": "ember_gremlin",
+  "description": "A small, twitchy creature native to volcanic vents. Physically weak, but nearly immune to fire.",
+  "stats": {
+    "str": 6,
+    "dex": 9,
+    "con": 8,
+    "int": 7,
+    "wis": 6,
+    "cha": 4
+  },
+  "cost": 50,
+  "type": "minion",
+  "tags": [],
+  "resistances": {
+    "fire": 0.9,
+    "ice": 0.0,
+    "lightning": 0.0,
+    "physical": 0.0
+  }
+}

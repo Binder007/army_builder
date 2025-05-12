@@ -1,0 +1,19 @@
+{
+  "name": "shae_lia",
+  "description": "An Evil Lady of Magic and Cruelty, Shae'lia commands her legions for the purpose of advancing her own nefarious goals.",
+  "stats": {
+    "str": 8,
+    "dex": 15,
+    "con": 18,
+    "int": 17,
+    "wis": 13,
+    "cha": 19
+  },
+  "cost": 500,
+  "type": "leader",
+  "tags": [
+    "infantry",
+    "hero",
+    "mage"
+  ]
+}

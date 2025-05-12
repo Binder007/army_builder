@@ -1,0 +1,18 @@
+{
+  "name": "brute_demon",
+  "description": "A massive and heavily built demon, designed to smash through enemy lines with brute force. Not subtle but incredibly resilient.",
+  "stats": {
+    "str": 22,
+    "dex": 14,
+    "con": 19,
+    "int": 6,
+    "wis": 8,
+    "cha": 9
+  },
+  "cost": 280,
+  "type": "demon",
+  "tags": [
+    "monster",
+    "melee"
+  ]
+}

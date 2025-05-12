@@ -1,0 +1,21 @@
+{
+  "name": "dark_knight",
+  "description": "A heavily armored warrior, corrupted by dark powers. Rides a fearsome steed and wields a wicked blade.",
+  "stats": {
+    "str": 18,
+    "dex": 11,
+    "con": 17,
+    "int": 12,
+    "wis": 9,
+    "cha": 15
+  },
+  "cost": 250,
+  "type": "cavalry",
+  "tags": [
+    "knight",
+    "mounted",
+    "armored",
+    "elite",
+    "dark_elf"
+  ]
+}

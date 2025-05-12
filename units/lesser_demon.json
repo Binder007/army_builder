@@ -1,0 +1,18 @@
+{
+  "name": "lesser_demon",
+  "description": "A minor fiend summoned from the lower planes. Cruel and possessing rudimentary magical abilities.",
+  "stats": {
+    "str": 16,
+    "dex": 12,
+    "con": 14,
+    "int": 13,
+    "wis": 10,
+    "cha": 11
+  },
+  "cost": 175,
+  "type": "demon",
+  "tags": [
+    "fiend",
+    "melee"
+  ]
+}

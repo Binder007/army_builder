@@ -1,0 +1,10 @@
+{
+  "name": "legion of dark lady",
+  "units": {
+    "shae_lia": 1,
+    "tentacle_monster": 2,
+    "croakbrute": 1,
+    "goblin_guard": 3,
+    "imp_scout": 1
+  }
+}

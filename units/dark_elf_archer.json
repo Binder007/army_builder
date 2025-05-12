@@ -1,0 +1,20 @@
+{
+  "name": "dark_elf_archer",
+  "description": "A skilled marksman from the Shadowfell, known for their accuracy and deadly poisoned arrows.",
+  "stats": {
+    "str": 12,
+    "dex": 15,
+    "con": 13,
+    "int": 14,
+    "wis": 11,
+    "cha": 9
+  },
+  "cost": 150,
+  "type": "archer",
+  "tags": [
+    "infantry",
+    "dark_elf",
+    "ranged",
+    "poison"
+  ]
+}

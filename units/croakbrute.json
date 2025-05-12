@@ -1,0 +1,17 @@
+{
+  "name": "croakbrute",
+  "description": "Croakbrute is a large, frog-like humanoid with a long tongue and slimey green skin.",
+  "stats": {
+    "str": 23,
+    "dex": 19,
+    "con": 25,
+    "int": 13,
+    "wis": 15,
+    "cha": 16
+  },
+  "cost": 350,
+  "type": "hero",
+  "tags": [
+    "skill_bash"
+  ]
+}

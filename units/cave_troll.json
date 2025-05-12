@@ -1,0 +1,21 @@
+{
+  "name": "cave_troll",
+  "description": "A hulking brute with thick hide and surprising regeneration. Not very bright but incredibly strong.",
+  "stats": {
+    "str": 20,
+    "dex": 8,
+    "con": 18,
+    "int": 4,
+    "wis": 7,
+    "cha": 6
+  },
+  "cost": 280,
+  "type": "monster",
+  "tags": [
+    "giant",
+    "brute",
+    "strong",
+    "regeneration",
+    "slow"
+  ]
+}

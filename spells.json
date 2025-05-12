@@ -1,0 +1,26 @@
+{
+  "fire_bolt": {
+    "cost": 10,
+    "cooldown": 2,
+    "effect": "damage",
+    "channel": "fire",
+    "magnitude": [3, 8],
+    "description": "A bolt of flame scorches the target."
+  },
+  "magic_missile": {
+    "cost": 8,
+    "cooldown": 1,
+    "effect": "damage",
+    "channel": "arcane",
+    "magnitude": [4, 10],
+    "description": "Two glowing darts unerringly strike the foe."
+  },
+  "psi_blade": {
+  "cost": 35,
+  "cooldown": 2,
+  "effect": "damage",
+  "channel": "psychic",
+  "magnitude": [12, 16],
+  "description": "A blade of mental force slices through resistance."
+}
+}

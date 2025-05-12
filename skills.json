@@ -1,0 +1,28 @@
+{
+  "power_strike": {
+    "cost": 20,
+    "cooldown": 4,
+    "effect": "damage",
+    "magnitude": [15, 25],
+    "description": "A heavy strike that aims to break defenses."
+  },
+  "bash": {
+    "cost": 12,
+    "cooldown": 2,
+    "effect": "debuff",
+    "target": "enemy",
+    "stat": "dex",
+    "modifier": -15,
+    "duration": 3,
+    "description": "A heavy strike that lowers the enemy's armor."
+  },
+  "adrenaline_surge": {
+    "cost": 10,
+    "cooldown": 3,
+    "effect": "buff",
+    "stat": "str",
+    "modifier": 3,
+    "duration": 3,
+    "description": "Temporarily boosts strength with a surge of adrenaline."
+  }
+}

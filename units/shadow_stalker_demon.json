@@ -1,0 +1,21 @@
+{
+  "name": "shadow_stalker_demon",
+  "description": "A stealthy demon that hunts in the shadows, ambushing its prey with swift and deadly attacks.",
+  "stats": {
+    "str": 12,
+    "dex": 16,
+    "con": 13,
+    "int": 11,
+    "wis": 12,
+    "cha": 7
+  },
+  "cost": 250,
+  "type": "demon",
+  "tags": [
+    "fiend",
+    "hunter",
+    "stealth",
+    "melee",
+    "fast"
+  ]
+}

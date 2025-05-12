@@ -1,0 +1,18 @@
+{
+  "name": "goblin_guard",
+  "description": "One of the Dark Lady's goblin guards. Dim-witted but surprisingly strong and resiliant despite it's unassuming frame.",
+  "stats": {
+    "str": 15,
+    "dex": 14,
+    "con": 11,
+    "int": 9,
+    "wis": 8,
+    "cha": 6
+  },
+  "cost": 100,
+  "type": "guard",
+  "tags": [
+    "infantry",
+    "goblin"
+  ]
+}

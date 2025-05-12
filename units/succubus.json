@@ -1,0 +1,18 @@
+{
+  "name": "succubus",
+  "description": "A seductive demon who drains the life force of their victims. Deadly in close combat and possesses alluring magic.",
+  "stats": {
+    "str": 10,
+    "dex": 14,
+    "con": 13,
+    "int": 16,
+    "wis": 15,
+    "cha": 18
+  },
+  "cost": 280,
+  "type": "demon",
+  "tags": [
+    "can_cast",
+    "spell_fire_bolt"
+  ]
+}
